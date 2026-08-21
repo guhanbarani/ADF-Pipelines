@@ -1,0 +1,15 @@
+{
+	"name": "adfsagarsoft",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16da3c59-318f-4e03-93d7-08bacc9ae056",
+		"tenantId": "e6f4e871-e2ac-4acd-9752-382ac36a11d2"
+	}
+}
